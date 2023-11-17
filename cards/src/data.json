@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "front": "apple",
+        "back": "яблоко",
+        "setName": "English"
+    },
+    {
+        "id": 2,
+        "front": "red",
+        "back": "красный",
+        "setName": "English"
+    },
+    {
+        "id": 3,
+        "front": "grey",
+        "back": "серый",
+        "setName": "English"
+    },
+    {
+        "id": 4,
+        "front": "lemon",
+        "back": "лимон",
+        "setName": "English"
+    },
+    {
+        "id": 5,
+        "front": "pie",
+        "back": "пирог",
+        "setName": "English"
+    },
+    {
+        "id": 6,
+        "front": "green",
+        "back": "зелёный"
+    },
+    {
+        "id": 7,
+        "front": "black",
+        "back": "чёрный",
+        "setName": "English"
+    },
+    {
+        "id": 8,
+        "front": "milk",
+        "back": "молоко",
+        "setName": "English"
+    },
+    {
+        "id": 9,
+        "front": "white",
+        "back": "белый",
+        "setName": "English"
+    },
+    {
+        "id": 10,
+        "front": "meat",
+        "back": "мясо",
+        "setName": "English"
+    },
+    {
+        "id": 11,
+        "front": "margin",
+        "back": "отступ внешний",
+        "setName": "css-свойства"
+    },
+    {
+        "id": 12,
+        "front": "padding",
+        "back": "внутренний отступ",
+        "setName": "css-свойства"
+    }
+]

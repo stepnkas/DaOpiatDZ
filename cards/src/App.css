@@ -1,0 +1,7 @@
+.App {
+  display: flex;
+  margin: 50px;
+  gap: 50px;
+  flex-direction: row;
+}
+
